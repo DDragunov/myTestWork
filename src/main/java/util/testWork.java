@@ -5,6 +5,6 @@ import org.junit.Test;
 public class testWork {
     @Test
     public void testSTR (){
-        System.out.println("test-3");
+        System.out.println("test-1");
     }
 }
